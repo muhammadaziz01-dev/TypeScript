@@ -15,7 +15,7 @@ person = {
     age: 25
 };
 
-// console.log(person);
+// console.log(person);homework
 
 
 function getFullInfo(name:string , age:number , hobbis:Array<string>):any{
